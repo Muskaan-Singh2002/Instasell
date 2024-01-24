@@ -1,0 +1,12 @@
+.top-cards {
+  padding-left: 54px;
+  display: flex;
+}
+.top-h1 {
+  padding-left: 68px;
+  margin-top: 44px;
+  min-width: 292px;
+  height: 32px;
+  font-size: 24px;
+  font-weight: 700;
+}

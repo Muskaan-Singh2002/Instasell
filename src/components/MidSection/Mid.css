@@ -1,0 +1,43 @@
+.mid-parent {
+  background-color: #fff7ee;
+  margin-top: 40px;
+  height: 607px;
+}
+.mid-h1 {
+  padding-left: 68px;
+  padding-top: 40px;
+  min-width: 292px;
+  height: 32px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.top-cards {
+  margin-top: -40px;
+}
+
+.circle {
+  background-color: #ffebd5;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.options {
+  display: flex;
+  white-space: nowrap;
+  align-items: center;
+}
+
+.options span {
+  height: 26px;
+  padding: 8px 10px 8px 10px;
+  background-color: #e3e3e3;
+  margin-right: 6px;
+  border-radius: 4px;
+}
+
+.legend span {
+  font-weight: 400;
+  font-size: 14px;
+}
